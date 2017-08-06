@@ -1,0 +1,6 @@
+def main()
+{
+    let a;
+    a = 3;
+    a = a + 3;
+}
